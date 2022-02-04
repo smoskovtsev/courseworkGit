@@ -1,4 +1,4 @@
-![My_photo](img/imgs_touch.png)
+![My_photo](img/imgs_touch.jpg)
 
 # Сергей Московцев
 
